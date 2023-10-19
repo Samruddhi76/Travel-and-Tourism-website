@@ -1,30 +1,14 @@
-# travler-website
+![Screenshot (492)](https://github.com/Samruddhi76/Travel-and-Tourism-website/assets/111414361/d5459126-99e4-4695-ab13-3543d4984b21)# travel-and-tourism-website
 # Tour & Travel Website
 
 This is a simple Tour & Travel website built with HTML, CSS, and JavaScript. It provides information about different adventure categories, popular tour packages, and a contact form.
-
-## Features
-
-- Responsive design
-- Navigation menu with smooth scrolling
-- Search functionality
-- Adventure category section with detailed information
-- Popular tour packages section with images, descriptions, and prices
-- Contact form for users to submit inquiries
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-
-## Getting Started
-
-To run this website locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
-3. Open the `index.html` file in a web browser.
+- PHP
 
 ## Usage
 
@@ -37,9 +21,6 @@ To run this website locally, follow these steps:
 
 Contributions are welcome! If you find any issues or want to enhance the website, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
@@ -64,10 +45,14 @@ Travel Planner is a web application that allows users to plan their trips, explo
 
 ## Getting Started
 
-1. Clone the repository:
+![Screenshot (492)](https://github.com/Samruddhi76/Travel-and-Tourism-website/assets/111414361/0ffa5a2c-e293-4c9b-88e7-aa28adaef6df)
+![Screenshot (493)](https://github.com/Samruddhi76/Travel-and-Tourism-website/assets/111414361/510eb815-937f-4d36-bb2f-f172f289dbdb)
+![Screenshot (494)](https://github.com/Samruddhi76/Travel-and-Tourism-website/assets/111414361/16451bd8-4966-4fb4-997b-56590cd4f747)
+![Screenshot (495)](https://github.com/Samruddhi76/Travel-and-Tourism-website/assets/111414361/3ffb1a72-39f9-4b88-8d89-1e6720c08497)
 
-```bash
-git clone https://github.com/your-username/travel-planner.git
+![Screenshot (497)](https://github.com/Samruddhi76/Travel-and-Tourism-website/assets/111414361/ef626e52-0ab9-467b-964d-16938ac54893)
+
+
 
 
 Feel free to customize this README file based on your specific requirements and project details. Good luck with your project!
